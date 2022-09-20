@@ -1,0 +1,4 @@
+#Wed Sep 14 14:56:55 ICT 2022
+base.0=E\:\\meeyland_home\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
